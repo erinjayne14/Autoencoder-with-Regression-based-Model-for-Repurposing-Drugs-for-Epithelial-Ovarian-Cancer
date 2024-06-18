@@ -1,7 +1,7 @@
 # Autoencoder-with-Regression-based-Model-for-Repurposing-Drugs-for-Epithelial-Ovarian-Cancer
 This is the repository that contains all the codes and files used in the thesis entitled "Autoencoder with Regression-based Model for Repurposing Drugs for Epithelial Ovarian Cancer" by Agraviador, Evangelista, and Trinidad.
 
-How to run the files for this VAE Regression Model:
+How to run this VAE Regression Model:
 1.  Create a Google account to run the files in Google Colab.
 2.  Download the model to be run in the model entitled "Variational Regression Model.ipynb"
 3.  Open the model file in Google Colab.
