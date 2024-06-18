@@ -6,5 +6,5 @@ How to run the files for this VAE Regression Model:
 2.  Download the model to be run in the model entitled "Variational Regression Model.ipynb"
 3.  Open the model file in Google Colab.
 5.  Make sure to download all the necessary files to be run in the model found in the folder "Input Files".
-6.  Upload the input files in after opening the model file.
+6.  Upload the input files in the the model file after opening it in Google Colab.
 7.  Run the codes. 
